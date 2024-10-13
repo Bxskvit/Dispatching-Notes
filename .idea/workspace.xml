@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b6b5549-f0fa-4f2f-8021-b5cf16aca741" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dsptchng_bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/create_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/get_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_utils/add_carrier_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_utils/add_load_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_utils/checking_existance_of_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_utils/close_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_utils/create_temporary_load_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropbox_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropbox_utils/add_to_dropbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropbox_utils/download_carriers_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropbox_utils/dropbox_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropbox_utils/upload_carriers_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/admin/admin_mode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/admin/admin_mode/admin_mode_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user/start/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user/start/start_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_callback/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_callback/add_carrier_callback/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_callback/add_carrier_callback/add_carrier_callback_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_callback/add_load_callback/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_callback/add_load_callback/add_load_callback_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_state_handlers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_state_handlers/add_carrier_state_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/user_state_handlers/add_load_state_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard/inline_kb_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/buttons_ikb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexicon/buttons_ikb/buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/states/User_states/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/states/User_states/add_carrier_states.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/states/User_states/add_load_states.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/states/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/carrier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/get_current_month_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/get_previous_month_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/load_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/set_daily_timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/set_monthly_timer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mRIWLJHAbVPvIeysLX8TFljQ0O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/a/PycharmProjects/dsptchng_bot/handlers/user_callback",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a\PycharmProjects\dsptchng_bot\handlers\user_callback" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="dsptchng_bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b6b5549-f0fa-4f2f-8021-b5cf16aca741" name="Changes" comment="" />
+      <created>1727032992846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727032992846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>

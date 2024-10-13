@@ -1,0 +1,1 @@
+from .get_variables import TELEGRAM_TOKEN, DROPBOX_TOKEN, TEMPORARY_DATA_FOLDER
